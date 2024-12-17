@@ -86,6 +86,7 @@ button:hover {
   margin-top: 10px;
 }
 
+
 /* Responsive Design for Tablets and Smaller Screens */
 @media (max-width: 1024px) {
   .product-catalog {
